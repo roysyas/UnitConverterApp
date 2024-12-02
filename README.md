@@ -1,2 +1,5 @@
+
 - Jetpack Compose
-- DI
+- Hilt
+- Room
+- Handle orientation changes
